@@ -1,0 +1,50 @@
+Benefits of Artificial Intelligence for Accountants and Finance Professionals
+New technology is changing the way people work in every industry. It's also changing the 
+expectations clients have when working with companies. The same is true for accounting. Artificial 
+intelligence can help accountants be more productive and efficient. An 80-90 per cent reduction in 
+the time it takes to do tasks will allow human accountants to be more focused on providing counsel 
+to their clients. Adding artificial intelligence to accounting operations will also increase the quality 
+because errors will be reduced.
+When accounting firms adopt artificial intelligence to their practise, the firm becomes more attractive 
+as an employer and service provider to millennials and Gen Z professionals. This cohort grew up 
+with technology, and they will expect prospective employers to have the latest technology and 
+innovation to support not only their working preferences of flexible schedules and remote locations 
+but also to free them up from mundane tasks that machines are better suited to complete. As clients, 
+millennials and Gen Zers will determine who to do business with based on the service offerings 
+they can provide. As more accounting firms adopt artificial intelligence, they will be able to provide 
+the data insights made possible by automation while those who don’t commit to the technology will 
+not be able to compete.
+Robotic process automation (RPA) allows machines or AI workers to complete repetitive, timeconsuming tasks in business processes such as document analysis and handling that are plentiful 
+in accounting. Once RPA is in place, time accountants used to spend on these tasks is now 
+available for more strategic and advisory work. Intelligent automation (IA) is a more sophisticated 
+version of RPA. IA can mimic human interaction in many cases, such as understanding inferred 
+meaning in client communication and using historical data to adapt to an activity. There are multiple 
+applications of RPA and IA in accounting work.
+AI can often provide real-time status of financial matters since it can process documents using 
+natural language processing and computer vision faster than ever making daily reporting possible 
+and inexpensive. This insight allows companies to be proactive and adjust course if the data show 
+unfavourable trends.
+Automated authorization and processing of documents with AI technology will enhance several 
+internal accounting processes including procurement and purchasing, invoicing, purchase orders, 
+expense reports, accounts payable and receivables, and more.
+In accounting, there are many internal corporate, local, state and federal regulations that must be 
+followed. AI-enabled systems help support auditing and ensure compliance by being able to monitor 
+documents against rules and laws and flag those with issues. Fraud costs companies collectively 
+billions of dollars each year and financial services companies have $2.92 in costs for every dollar 
+of fraud. Machine learning algorithms can quickly sift through enormous amounts of data to discern 
+potential fraud issues or suspicious activity that might have been otherwise missed by humans and 
+flag it for further review.
+It seems like the only barrier to artificial intelligence adoption in accounting is getting people on 
+board with the change. Nearly 85 per cent of executives understand that AI will help their 
+companies attain or sustain a competitive advantage according to a study from The Boston 
+Consulting Group and MIT Sloan School of Management. Since the chief executives seem to 
+understand the importance of artificial intelligence, it just requires a mindset shift from the 
+accounting professionals to accept the changes. With an assist from AI-enabled systems, 
+accountants are freed up to build relationships with their clients and deliver critical insights.
+To help accountants accept and hopefully embrace the tech addition to accounting firms, it's vital 
+that the benefits of automation and artificial intelligence are shared with them and they are provided 
+with the proper training and any support necessary to learn how best to use AI to their advantage.
+AI and automation in accounting and finance are just beginning. However, the technology is getting 
+more sophisticated, and the tools and systems available to support accounting are expanding at a 
+rapid pace. Accountants that resist these changes will not be able to keep up with others who have 
+the advantage of time and cost savings and insights AI can provide
